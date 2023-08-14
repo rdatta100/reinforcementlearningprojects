@@ -1,1 +1,2 @@
-# reinforcementlearningprojects
+# Projects from Reinforcement Learning Research
+
